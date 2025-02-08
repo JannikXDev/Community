@@ -3,7 +3,8 @@
 **Welcome to Nero Studios Github,
 a place where u can get links to Games and our discord server,
 here we also post announcements for new releases and updates upon our Games. 
-If u would like to get the real experience we recommend u joining our discord server!**
+If u would like to get the real experience we recommend u joining our discord server!
+if u would like to know more about Nero Studios read the [Wikipedia](https://github.com/JannikXDev/Nero-Studios/wiki)!**
 
 # Founder 👑
 
