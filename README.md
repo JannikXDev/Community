@@ -1,15 +1,14 @@
 # About 📄
 
 **Welcome to Virtualy Studios Github,
-a place where u can get links to Games and our discord server,
-here we also post announcements for new releases and updates upon our Games. 
+a place where u can get links to our discord server,
+here we also post announcements for updates and videos. 
 If u would like to get the real experience we recommend u joining our discord server!
-if u would like to know more about Nero Studios read the [Wikipedia](https://github.com/JannikXDev/Nero-Studios/wiki)!**
+if u would like to know more about Virtualy Studios read the [Wikipedia](https://github.com/JannikXDev/Nero-Studios/wiki)!**
 
 # Founder 👑
 
-**Virtualy Studios was founded by CheezeCakeVr a roblox developer started in 25.1.25 (2025, Janurary, 25,) and is currently developing a battlegrounds game on roblox working he's way up to success.**
-
+**Virtualy Studios was originally founded by CheezeCakeVr but is now owned by JannikX a roblox YouTuber that makes roblox related content!**
 # Table Of Contents 🔗
 
 - [Wikipedia](https://github.com/JannikXDev/Nero-Studios/wiki)
