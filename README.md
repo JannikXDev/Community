@@ -26,4 +26,4 @@ about Nero Studios and its origin.**
 
 # Contact Us 📞
 
-**U can contact us through the [Discord Server](https://discord.gg/WE43xjAxAy) by using modmail if u need help with bugs or have suggestions for Games!**
+**U can contact us through the [Discord Server](https://discord.gg/WE43xjAxAy) by using modmail if u need help with things or have suggestions for our videos!**
